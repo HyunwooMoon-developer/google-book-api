@@ -1,0 +1,28 @@
+.searchpage{
+    text-align: center;
+    background-color: gray;
+}
+
+.submit-button{
+    background-color: white;
+    color: black;
+    border: 2px solid skyblue;
+}
+
+.submit-button:hover{
+    background-color: skyblue;
+    color: white;
+}
+
+.select{
+    position: relative;
+    background-color: dodgerblue;
+    color: white;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+
+input[type=text]{
+    background-color : lemonchiffon;
+}
+
